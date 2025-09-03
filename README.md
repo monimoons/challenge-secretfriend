@@ -6,7 +6,7 @@ O objetivo é criar uma aplicação simples e divertida de **Amigo Secreto**, pr
 
 ---
 
-## ⚙️ Funcionalidades  
+## ⚙️ Funcionalidades 
 - Adicionar nomes de participantes.
 - Validar se não está vazio.
 - Exibir alerta se estiver vazio.

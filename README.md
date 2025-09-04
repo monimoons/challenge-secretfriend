@@ -5,6 +5,7 @@ Este projeto foi desenvolvido como parte da minha prática em **lógica de progr
 O objetivo é criar uma aplicação simples e divertida de **Amigo Secreto**, praticando **JavaScript, manipulação do DOM e arrays**.  
 
 ---
+<img width="1045" height="760" alt="image" src="https://github.com/user-attachments/assets/4ad9ea32-c4c8-4569-8205-93afdfec02e0" />
 
 ## ⚙️ Funcionalidades 
 - Adicionar nomes de participantes.

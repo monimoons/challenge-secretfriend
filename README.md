@@ -3,7 +3,10 @@
 Este projeto foi desenvolvido como parte da minha prática em **lógica de programação** durante o programa **Oracle Next Education (ONE)** em parceria com a **Alura**.  O objetivo é criar uma aplicação simples e divertida de **Amigo Secreto**, praticando **JavaScript**.  
 
 ---
+Link: [Clique aqui](https://monimoons-challenge-secretfriend.vercel.app/)
+
 <img width="1045" height="760" alt="image" src="https://github.com/user-attachments/assets/4ad9ea32-c4c8-4569-8205-93afdfec02e0" />
+
 
  ## Funcionalidades 
 - Adicionar nomes de participantes.
